@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.AbstractFactory
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.AbstractFactory.Exercice3", "..\FP.Patterns.AbstractFactory.Exercice3\FP.Patterns.AbstractFactory.Exercice3.csproj", "{5D608092-3540-40DD-B70B-6C1328E0D334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.AbstractFactory.Exercice4", "..\FP.Patterns.AbstractFactory.Exercice4\FP.Patterns.AbstractFactory.Exercice4.csproj", "{65EC2354-586B-4F07-A477-4A7988852B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FP.Patterns.AbstractFactory.Exercice4", "..\FP.Patterns.AbstractFactory.Exercice4\FP.Patterns.AbstractFactory.Exercice4.csproj", "{65EC2354-586B-4F07-A477-4A7988852B63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FP.Patterns.AbstractFactory.Exercice5", "..\FP.Patterns.AbstractFactory.Exercice5\FP.Patterns.AbstractFactory.Exercice5.csproj", "{7EB8B82C-BD2D-4552-9ABA-DA7BE08FD1BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{65EC2354-586B-4F07-A477-4A7988852B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65EC2354-586B-4F07-A477-4A7988852B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65EC2354-586B-4F07-A477-4A7988852B63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB8B82C-BD2D-4552-9ABA-DA7BE08FD1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB8B82C-BD2D-4552-9ABA-DA7BE08FD1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB8B82C-BD2D-4552-9ABA-DA7BE08FD1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB8B82C-BD2D-4552-9ABA-DA7BE08FD1BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
